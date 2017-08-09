@@ -6,5 +6,5 @@
 >What is CustomerPro?
 (Customer Pro is a free IOS app, that manages service businesses customers, messages & Jobs.)
 >Why this concept is important?
--[Smaller service based startups don’t have the money for premium software: CustomerPro is a free and affective alternative.] 
+- [Smaller service based startups don’t have the money for premium software: CustomerPro is a free and affective alternative.] 
 -[Most service business are on the go! So, a mobile solution correlates with the lifestyle demanded . For example, Cleaning Services, Plumbers.]
