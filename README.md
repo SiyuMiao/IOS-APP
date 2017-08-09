@@ -10,5 +10,6 @@
 - Most service business are on the go! So, a mobile solution correlates with the lifestyle demanded . For example, Cleaning Services, Plumbers.
 >How it works?
 - A small business owner --> Task --> Create customers(Messages Jobs) --> Configure Settings
+| Name | Description |
 |------|-------------|
 |[DesignDocument.docx](https://github.com/SiyuMiao/IOS-APP/blob/master/DesignDocument.docx)|The process of creating CustomerPro|
