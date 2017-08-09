@@ -13,4 +13,5 @@
 # Important Files
 | Name | Description |
 |------|-------------|
-|[DesignDocument.docx](https://github.com/SiyuMiao/IOS-APP/blob/master/DesignDocument.docx)|The process of creating CustomerPro|
+|[CustomerPro](https://github.com/SiyuMiao/IOS-APP/blob/master/Customer%20Pro.pptx)|Introduce of CustomerPro|
+|[Design Document](https://github.com/SiyuMiao/IOS-APP/blob/master/DesignDocument.docx)|The process of creating CustomerPro|
