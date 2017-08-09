@@ -2,7 +2,7 @@
 >My name is [Siyu Miao](https://www.linkedin.com/in/siyumiao93/). I am a bachelor science of Informatics and Mathematics from Indiana University Bloomington. I really love programming. My undergraduate studies helped me enhance my programming knowledge and skills. 
 
 >For this repository, it contains an APP called CustomerPro I have written with my teammate. I created this project as experiments to improve my programming skills. If you would like to make any comments then please feel free to email me at siyumiao1227@gmail.com.
-# IOS-APP (Customer PRO)
+# IOS-APP (CustomerPro)
 >What is CustomerPro?
 - Customer Pro is a free IOS app, that manages service businesses customers, messages & Jobs.
 >Why this concept is important?
